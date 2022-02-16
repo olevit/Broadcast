@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broadcast</string>
+    <string name="send_message">Відправити повідомлення</string>
+</resources>
